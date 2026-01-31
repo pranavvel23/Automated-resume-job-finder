@@ -1,0 +1,5 @@
+pandas
+PyPDF2
+reportlab
+
+mhzf khmk wfyt oqws
